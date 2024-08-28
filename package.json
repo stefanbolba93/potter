@@ -1,0 +1,16 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculateValue.js",
+  "scripts": {
+    "start": "node calculateValue.js",
+    "test": "jest --watchAll"
+  },
+  "author": "Stefan Bolba",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
